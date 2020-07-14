@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "adedonha",
+    "name": "Adedonha",
     "slug": "adedonha",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,7 +8,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#026fff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -17,10 +17,13 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fredcoutinho.adedonha",
+      "buildNumber": "1.0.0"
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "android": {
+      "package": "com.fredcoutinho.adedonha",
+      "versionCode": 1
     }
   }
 }
