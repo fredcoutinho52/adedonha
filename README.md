@@ -11,7 +11,12 @@ descrição
 
 ## Screenshots
 
-fotos
+<center>
+<span>
+<img src="screenshots/splash.jpeg" width="250">
+<img src="screenshots/main.jpeg" width="250">
+</span>
+</center>
 
 ## How to use
 
