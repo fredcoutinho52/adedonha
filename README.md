@@ -1,6 +1,6 @@
 # Adedonha
 
-descrição
+This app was created for help me and my family on a game called "Adedonha" or "Stop" drawing a letter and counting the time.
 
 ## Made with
 
